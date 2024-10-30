@@ -1,0 +1,27 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+* {
+  @apply font-fantasque;
+}
+
+body {
+  @apply p-4;
+}
+
+.link {
+  @apply text-blue-500 underline;
+}
+
+.link-disabled {
+  @apply text-gray-400;
+}
+
+h1 {
+  @apply text-xl font-bold;
+}
+
+h2 {
+  @apply text-lg font-bold;
+}
