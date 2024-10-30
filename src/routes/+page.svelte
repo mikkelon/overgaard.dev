@@ -12,7 +12,7 @@
   />
 </article>
 <article>
-  <h2>Projects</h2>
+  <h2>projects</h2>
   <p class="text-xs italic">
     Unfortunately, as of right now, there are no noteworthy projects to
     highlight here.
