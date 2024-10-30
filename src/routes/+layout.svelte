@@ -5,6 +5,4 @@
 </script>
 
 <Header />
-<main class="mt-4">
-	{@render children()}
-</main>
+{@render children()}
