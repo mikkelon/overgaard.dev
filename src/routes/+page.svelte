@@ -1,5 +1,5 @@
 <script>
-  import ProjectCard from '../components/ProjectCard.svelte';
+  import ProjectCard from '$lib/components/ProjectCard.svelte';
 </script>
 
 <main class="grid sm:grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto p-4">
@@ -16,8 +16,8 @@
           <ul class="list-disc list-inside mt-2 space-y-1">
             <li>Software development</li>
             <li>Web development</li>
-            <li>Networking</li>
-            <li>Cyber security</li>
+            <li>Networking and self-hosting</li>
+            <li>Open source</li>
             <li>Linux</li>
           </ul>
         </div>
@@ -32,10 +32,13 @@
         <li>Azure</li>
         <li>C#</li>
         <li>.NET</li>
+        <li>SQL</li>
         <li>Rust</li>
         <li>Python</li>
-        <li>Svelte</li>
         <li>JavaScript</li>
+        <li>Svelte</li>
+        <li>Docker</li>
+        <li>Linux</li>
       </ul>
     </section>
 
