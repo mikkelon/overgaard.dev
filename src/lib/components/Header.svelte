@@ -1,4 +1,4 @@
-<header class="flex flex-col gap-2">
+<header class="flex flex-col gap-2 items-center">
   <h1>overgaard.dev</h1>
   <div class="flex gap-2">
     <a class="link" href="/">home</a>
@@ -18,3 +18,8 @@
     </a>
   </div>
 </header>
+
+<style>
+</style>
+
+
